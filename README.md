@@ -45,3 +45,6 @@ If you are willing to contribute to the project you will find the relevant infor
 # License
 
 This project is licensed under the terms of the MIT license.
+
+# More info
+[Link here](https://www.tutorialspoint.com/design_pattern/)
